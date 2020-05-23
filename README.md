@@ -16,3 +16,9 @@ If you are interrest in executing this `demo.iypnb` notebook and reproduce the r
 * 3- Replace the path of impor the cell (commented on the notebook)
 
 # References
+https://en.wikipedia.org/wiki/Content-based_image_retrieval
+https://towardsdatascience.com/bag-of-visual-words-in-a-nutshell-9ceea97ce0fb
+https://towardsdatascience.com/review-resnet-winner-of-ilsvrc-2015-image-classification-localization-detection-e39402bfa5d8
+
+One shot learning consists in learning from one (or a few) examples. It is a concept closely related to image retrieval. If you are interested in siamese networks for image retrieval, you can read these 3 blog posts, which mostly focus about one shot learning:
+https://hackernoon.com/one-shot-learning-with-siamese-networks-in-pytorch-8ddaab10340e https://sorenbouma.github.io/blog/oneshot/ https://towardsdatascience.com/one-shot-learning-face-recognition-using-siamese-neural-network-a13dcf739e
