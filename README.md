@@ -13,7 +13,7 @@ The `demo.iypnb` file is a notebook that contains all the workflow for the proje
 If you are interrest in executing this `demo.iypnb` notebook and reproduce the results. 
 * 1- Fork the repository 
 * 2- Download the dataset (link is in the notebook)
-* 3- Replace the path of impor the cell (commented on the notebook)
+* 3- Replace the path of the import cell (commented on the notebook)
 
 # References
 https://en.wikipedia.org/wiki/Content-based_image_retrieval
