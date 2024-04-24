@@ -1,6 +1,6 @@
 # deep_image_retrieval
 ### Louis Ulmer - Data Scientist 
-#### Contact : ulmerlouis@gmail.com
+#### Contact : ulmerlouispro@gmail.com
 
 # Presentation 
 **An AI based Image Retrieval System**
